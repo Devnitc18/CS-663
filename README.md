@@ -1,8 +1,6 @@
 # CS-663
 # CS 663 - Fundamentals of Digital Image Processing
 
-![Course Banner](course_banner_image_url_here)
-
 ## Course Details
 
 - **Course Name:** Fundamentals of Digital Image Processing
